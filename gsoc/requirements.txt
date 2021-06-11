@@ -14,7 +14,7 @@ django-tables2==2.0.6
 djangorestframework==3.9.4
 gunicorn==19.9.0
 idna==2.8
-lxml==4.3.4
+lxml==4.6.3
 numpy==1.16.4
 pandas==0.24.2
 psycopg2==2.8.3
